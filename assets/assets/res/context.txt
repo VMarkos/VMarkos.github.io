@@ -1,0 +1,3 @@
+green(ball1);
+red(ball2);
+blue(ball3);
